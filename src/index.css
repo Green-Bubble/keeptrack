@@ -1,0 +1,5 @@
+@import '../node_modules/mini.css/dist/mini-default.min.css';
+
+form {
+    min-width: 300px;
+}
